@@ -59,51 +59,51 @@ nav li.active a {
     background-color: rgba(0, 142, 179, 0.6);
 }
 nav li.welcome a {
-    background-image: url(/img/nav/home.svg);
+    background-image: url(../img/nav/home.svg);
 }
 nav li.welcome.active a,
 nav li.welcome a:hover {
-    background-image: url(/img/nav/home-white.svg);
+    background-image: url(../img/nav/home-white.svg);
 }
 nav li.what-is-a-ceilidh a {
-    background-image: url(/img/nav/help.svg);
+    background-image: url(../img/nav/help.svg);
 }
 nav li.what-is-a-ceilidh.active a,
 nav li.what-is-a-ceilidh a:hover,
 i.what-is-a-ceilidh {
-    background-image: url(/img/nav/help-white.svg);
+    background-image: url(../img/nav/help-white.svg);
 }
 nav li.whats-on a,
 i.whats-on {
-    background-image: url(/img/nav/calendar.svg);
+    background-image: url(../img/nav/calendar.svg);
 }
 nav li.whats-on.active a,
 nav li.whats-on a:hover {
-    background-image: url(/img/nav/calendar-white.svg);
+    background-image: url(../img/nav/calendar-white.svg);
 }
 nav li.how-much a,
 i.how-much {
-    background-image: url(/img/nav/pound.svg);
+    background-image: url(../img/nav/pound.svg);
 }
 nav li.how-much.active a,
 nav li.how-much a:hover {
-    background-image: url(/img/nav/pound-white.svg);
+    background-image: url(../img/nav/pound-white.svg);
 }
 nav li.where a {
-    background-image: url(/img/nav/location.svg);
+    background-image: url(../img/nav/location.svg);
 }
 nav li.where.active a,
 nav li.where a:hover,
 i.where {
-    background-image: url(/img/nav/location-white.svg);
+    background-image: url(../img/nav/location-white.svg);
 }
 nav li.social a,
 i.social {
-    background-image: url(/img/nav/sharethis.svg);
+    background-image: url(../img/nav/sharethis.svg);
 }
 nav li.social.active a,
 nav li.social a:hover {
-    background-image: url(/img/nav/sharethis-white.svg);
+    background-image: url(../img/nav/sharethis-white.svg);
 }
 
 h1 {
@@ -127,7 +127,7 @@ article {
     padding-bottom: 1em;
 }
 #welcome {
-    background: url(/img/background-desat.jpg) no-repeat 0 30%;
+    background: url(../img/background-desat.jpg) no-repeat 0 30%;
     background-size: 100%;
 }
 .background-blue {
